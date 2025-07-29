@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "documents": [
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - History.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Traditions and Culture.pdf"
+    ],
+    "persona": "Travel Planner",
+    "job": "Plan a trip of 4 days for a group of 10 college friends.",
+    "timestamp": "2025-07-28T15:11:28.913572Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Cities.pdf",
+      "page": 9,
+      "section_title": "planetarium, and a replica of the Mir space station. It's an engaging and educational",
+      "importance_rank": 27
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page": 7,
+      "section_title": "Saint-Raphaël: Visit the Thalasso Spa for seawater treatments and relaxation.",
+      "importance_rank": 25
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page": 7,
+      "section_title": "Day Bag: A small, secure day bag for carrying essentials like water, snacks, and a",
+      "importance_rank": 25
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page": 8,
+      "section_title": "Additional Tips: Pack a small travel umbrella, a reusable shopping bag, and a",
+      "importance_rank": 25
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page": 7,
+      "section_title": "Opéra Grand Avignon: Attend a performance at the Opéra Grand Avignon for a",
+      "importance_rank": 24
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "South of France - Cities.pdf",
+      "page": 9,
+      "refined_text": "Toulouse: The Pink City \nHistory \nToulouse, known as \"La Ville Rose\" (The Pink City) due to its distinctive terracotta buildings, \nis a vibrant city with a rich history. It was an important center during the Roman period and \nlater became a hub of the aerospace industry. Toulouse has been a center of learning and \nculture for centuries, with a prestigious university and numerous research institutions. \nKey Attractions \n• \nBasilica of Saint-Sernin: This Romanesque basilica, built between the 11th"
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page": 7,
+      "refined_text": "Relaxation and Wellness \nFor those seeking relaxation and rejuvenation, the South of France oﬀers plenty of options: \nSpa and Wellness Retreats \n• \nAix-en-Provence: Visit Thermes Sextius for thermal baths and massages. \n• \nBordeaux: Enjoy vinotherapy treatments at Les Sources de Caudalie. \n• \nVichy: Experience hydrotherapy and mud baths at Spa Vichy Célestins. \n• \nEvian-les-Bains: Relax at the Evian Resort, known for its mineral-rich waters. \n• \nSaint-Raphaël: Visit the Thalasso Spa for seawater"
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page": 7,
+      "refined_text": "• \nAdditional Tips: Bring a favorite stuﬀed animal or comfort item to help kids feel at \nhome. Consider packing a travel potty for young children. \n \nSpecial Considerations \nBeach Trips \n• \nBeach Bag: A large, waterproof bag for essentials. \n• \nTowels: Lightweight, quick-drying beach towels. \n• \nBeach Toys: Buckets, shovels, and toys for kids. \n• \nSnorkeling Gear: Bring your own gear for a better fit and comfort. \n• \nAdditional Tips: Pack a beach umbrella or tent for shade and a cooler for drink"
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page": 8,
+      "refined_text": "• \nNotebook: Bring a notebook to jot down notes about the wines you taste. \n• \nWater Bottle: Stay hydrated by drinking water between tastings. \n• \nAdditional Tips: Plan your wine tour route in advance and consider hiring a driver or \njoining a guided tour to avoid drinking and driving. \n \nTips and Tricks for Packing \n• \nCheck the Weather: Check the forecast before packing to ensure appropriate clothing. \n• \nMake a Packing List: Create a list to ensure nothing is forgotten. Cross oﬀ items as you "
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page": 7,
+      "refined_text": "Avignon: The City of Popes \nHistory \nAvignon, located on the banks of the Rhône River, is best known for its role as the seat of the \npapacy in the 14th century. The city was home to seven popes during this period, leaving a \nlasting legacy of impressive architecture and cultural heritage. Avignon's history dates back to \nRoman times, and it has been a significant religious and cultural center for centuries. \nKey Attractions \n• \nPalais des Papes: This massive Gothic palace was the residence of t"
+    }
+  ]
+}
